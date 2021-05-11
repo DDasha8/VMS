@@ -42,6 +42,6 @@ namespace DAL.Entities
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
 
-        public virtual List<Journal> Records { get; set; }
+        public virtual List<Record> Records { get; set; }
     }
 }
