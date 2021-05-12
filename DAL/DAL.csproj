@@ -60,6 +60,7 @@
     <Compile Include="Entities\Point.cs" />
     <Compile Include="Entities\Producer.cs" />
     <Compile Include="Entities\Vaccine.cs" />
+    <Compile Include="OperationsManager.cs" />
     <Compile Include="ORM\Model1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
